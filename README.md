@@ -52,6 +52,8 @@
 ***********************************
 
 #### Thank You-🙏🏼
+# languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelinuxuser-choice&theme=tokyonight)
 
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LavSarkari" alt="visitor badge"/>
