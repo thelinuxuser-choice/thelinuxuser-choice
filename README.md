@@ -30,9 +30,7 @@
 <a href="https://github.com/thelinuxuser-choice">
   <img src="https://github-readme-stats.vercel.app/api?username=thelinuxuser-choice&show_icons=true&theme=blue-green&layout=compact" alt="subodha prabash GitHub Stats" />
 </a>
-<a href="https://github.com/thelinuxuser-choice">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelinuxuser-choice&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
-</a>
+
 <br />
 
 *************
