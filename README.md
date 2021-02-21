@@ -54,6 +54,7 @@ export default () => ({
 ### 📧 Reach me on insta: **black_hat_0xgod**
 ### 👾 Check out insta [subodha prabash](https://www.instagram.com/black_hat_0xgod/)
 ### 💻 follow me and dm me for questions
+### 🎌 ctf player [try hackme](https://tryhackme.com/p/subodhaprabash)
 
 <br>
 
