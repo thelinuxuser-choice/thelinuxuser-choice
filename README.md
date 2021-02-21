@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhhrrrttt222111" alt="hhhrrrttt222111" /> </p>
 
 
-<p align="center"> <img src="assets/neo.svg" alt="hhhrrrttt222111" height=300/> </p>
+<p align="center"> <img src="neo.svg" alt="hhhrrrttt222111" height=300/> </p>
 
 <br>
 
