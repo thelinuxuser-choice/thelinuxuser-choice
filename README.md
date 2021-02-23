@@ -54,8 +54,8 @@ export default () => ({
 
 ### 🌱 I’m currently learning eJPT
 ### 💬 Ask me anything on mainly cyber security
-### 📧 Reach me on insta: **black_hat_0xgod**
-### 👾 Check out insta [subodha prabash](https://www.instagram.com/black_hat_0xgod/)
+### 📧 Reach me on insta: **black_h4t_hacker**
+### 👾 Check out insta [subodha prabash](https://www.instagram.com/black_h4t_hacker/)
 ### 💻 follow me and dm me for questions
 ### 🎌 ctf player [try hackme](https://tryhackme.com/p/subodhaprabash)
 
