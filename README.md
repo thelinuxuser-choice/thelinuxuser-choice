@@ -1,92 +1,32 @@
-<p align="center"> <img src="hacker.svg" alt="subodha prabsh" height=300/> </p>
+<h1 align="center" height='30'>Hi there, I'm <a href="https://sparshkun.github.io/" target="_blank">Sparsh Anand</a> 
+<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200' ></h1> 
+<div align="center">
+  </div>
+  <div align="center">
+  <p>a.k.a <b>0xSN1PE</b>, Currently I am a student in last year of high school. I am intrested in cyber security and have been working in various conferences as volunteer to gain experience. My main field of intrest in cyber security is Penetration Testing, Reverse Engineering and Exploit Development. I also do Web Development and interested in A.I.</p>
+  
+  <p><b>Connect with me through:</b></p>
+  
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/black_h4t_hacker/)](https://www.instagram.com/black_h4t_hacker/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:)](mailto:)  
+<hr>
 
+<h1>languages & Technologies</h1>
 
-<h1 align="center"> Hey guys,<br> I'm Subodha Prabash 💚💛💜💙</h1> 
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="30" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 
+<br><br>
+<h1>My GitHub Stats</h1>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=thelinuxuser-choice&show_icons=true&hide_border=true&count_private=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelinuxuser-choice&count_private=true&theme=vue-dark&layout=compact)
 <br>
-<!---
-[![Twitter: hhhrrrttt222111](https://img.shields.io/twitter/follow/hhhrrrttt222111?style=social)](https://twitter.com/no)  &nbsp;&nbsp;&nbsp;&nbsp;
-[![Linkedin: hhhrrrttt222111](https://img.shields.io/badge/-hhhrrrttt222111-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/hhhrrrttt222111/)](https://www.linkedin.com/in/no)
--->
+<h1>Featured Projects</h1>
 
-<br>
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thelinuxuser-choice&repo=AnonCracker&theme=vue-dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thelinuxuser-choice&repo=COVID19&theme=vue-dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thelinuxuser-choice&repo=Dragonhunter&theme=vue-dark)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hhhrrrttt222111" alt="subodha prabsh" /> </p>
-
-
-<p align="center"> <img src="neo.svg" alt="subodha prabsh" height=300/> </p>
-
-<br>
-
-```js
-export default () => ({
-  blogUrl: "http://still.non.blogs:)",
-  askMeAbout: [
-    "Web-Dev", "DS/ML",
-    "Cybersecurity"
-  ],
-  technologies: {
-    "Programming languages": [ "Python", "Java", "Dart"],
-    "webdev": [ "HTML", "CSS",  "Javascript" ],
-    "appdev": [ "Flutter" ],
-    "databases": [ "MySQl" ],
-    "applications": ["Microsoft Office" ],
-    "mathematicsAndStatistics": [ "NumPy", "Pandas", "SciPy" ],
-    "machineLearning": [ "scikit-learn", "TensorFlow", "Keras" ],
-    "datavisualization": [ "Matplotlib", "Seaborn" ],
-    "devOpsTools": [ "Git", "Kubernetes" ],
-    "cloudOps": [ "AWS" ],
-    "operatingSystems": [ "Ubuntu", "Kali Linux", "Windows" ],
-    "editors": [ "VSCode", "ViM", "Pycharm", "Jupyter Notebook", "Atom", "Notepad++" ]
-  },
-   Skills: [
-    "Leadership", "Team Building", "Decision Making",
-    "Problem Solving", "Time Management", "Quick Learner" 
-  ],
-   Interest: [
-    "Technology", "Coding", "Reading",
-    "Football", "Music", "Cricket" 
-  ]
-});
-```
-
-<br>
-
-### 🌱 I’m currently learning eJPT
-### 💬 Ask me anything on mainly cyber security
-### 📧 Reach me on insta: **black_h4t_hacker**
-### 👾 Check out insta [subodha prabash](https://www.instagram.com/black_h4t_hacker/)
-### 💻 follow me and dm me for questions
-### 🎌 ctf player [try hackme](https://tryhackme.com/p/subodhaprabash)
-
-<br>
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thelinuxuser-choice&show_icons=true&theme=tokyonight" alt="hrt" /> </p>
-<!---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhrrrttt222111&show_icons=true&layout=compact&theme=tokyonight"" alt="hrt" /> </p>
--->
-
-## Connect with me:
-
-<br>
-<a href="http://stillno:)/" target="_blank"><img align="left" alt="hrt" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://twitter.com/" target="_blank"><img align="left" alt="twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/" target="_blank"><img align="left" alt="likedin" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/black_hat_0xgod/" target="_blank"><img align="left" alt="insta" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
-<br>
-<br>
-
-## Skills
-
-<br>
-<div style="display: flex; justify-content: space-around">
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </div>
