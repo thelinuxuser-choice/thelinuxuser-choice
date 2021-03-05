@@ -1,9 +1,9 @@
-<h1 align="center" height='30'>Hi there, I'm <a href="https://sparshkun.github.io/" target="_blank">Sparsh Anand</a> 
+<h1 align="center" height='30'>Hi there, I'm <a href="https://sparshkun.github.io/" target="_blank">subodha prabash</a> 
 <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200' ></h1> 
 <div align="center">
   </div>
   <div align="center">
-  <p>a.k.a <b>0xSN1PE</b>, Currently I am a student in last year of high school. I am intrested in cyber security and have been working in various conferences as volunteer to gain experience. My main field of intrest in cyber security is Penetration Testing, Reverse Engineering and Exploit Development. I also do Web Development and interested in A.I.</p>
+  <p>a.k.a <b>thelinuxuser-choice</b>, Currently I am a student in a school. I am intrested in cyber security and have been working in various conferences as volunteer to gain experience. My main field of intrest in cyber security is Penetration Testing, Reverse Engineering and Exploit Development. I also do Web Development and interested in A.I.  wish me just 16 :)</p>
   
   <p><b>Connect with me through:</b></p>
   
