@@ -26,7 +26,9 @@
 <h1>Featured Projects</h1>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thelinuxuser-choice&repo=AnonCracker&theme=vue-dark)
+<br>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thelinuxuser-choice&repo=COVID19&theme=vue-dark)
+<br>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thelinuxuser-choice&repo=Dragonhunter&theme=vue-dark)
 
 </div>
