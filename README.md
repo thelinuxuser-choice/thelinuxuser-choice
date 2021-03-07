@@ -21,6 +21,7 @@
 <h1>My GitHub Stats</h1>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thelinuxuser-choice&show_icons=true&hide_border=true&count_private=true&theme=vue-dark)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelinuxuser-choice&count_private=true&theme=vue-dark&layout=compact)
 <br>
 <h1>Featured Projects</h1>
