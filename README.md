@@ -1,28 +1,31 @@
-<h1 align="center" height='30'>Hi there, I'm <a href="https://thelinuxuser-choice.github.io/" target="_blank">Frustrated you know that</a> 
-<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200' ></h1> 
-<div align="center">
-  </div>
-  <div align="center">
-  <p>a.k.a <b>thelinuxuser-choice</b>, Currently I am a student in a school. I am intrested in cyber security and have been working in various conferences as volunteer to gain experience. My main field of intrest in cyber security is Penetration Testing, Reverse Engineering and Exploit Development. I also do Web Development and interested in A.I.  wish me just 16 :)</p>
-  
-  <p><b>Connect with me through:</b></p>
-  
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/black_h4t_hacker/)](https://www.instagram.com/black_h4t_hacker/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:)](mailto:)  
-<hr>
+<h2> Hi, I'm thelinuxuser-choice! <img src="https://media.tenor.com/images/70121dec0b5bb518edaa0be7f17ed273/tenor.gif" width="50"></h2>
+<img align='right' src="https://i.postimg.cc/k5sNg1zV/icon.png" width="230">
+<p><em>Software Enginner at <a href="#">a discord server</a><img src="https://media.tenor.com/images/64bad75af8a169ead8f3b5308e057699/tenor.gif" width="30"></br> a Student at <a href="https://www.stpeterscollege.lk/">stpeterscollege</a><img src="https://media.tenor.com/images/3c67b2b63dd01036b8d44da55294e25f/tenor.gif" width="30"> 
+</em></p>
 
-<h1>languages & Technologies</h1>
+[![Twitter: 404](https://img.shields.io/twitter/follow/404?style=social)](https://twitter.com/)
+[![Linkedin: 404](https://img.shields.io/badge/-404-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+[![GitHub Zypher](https://img.shields.io/github/followers/thelinuxuser-choice?label=follow&style=social)](https://github.com/thelinuxuser-choice)
 
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="30" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 
-<br><br>
-### Spotify Playing 🎧
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/3v0ylYF51SKkgAi4PrfKTq)
-<h1>My GitHub Stats</h1>
+```javascript
+const zypher = {
+  pronouns: "200" | "404",
+  code: [Javascript, Typescript, HTML, CSS, c#, Python, Java],
+  age  : [16];
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        discord: "Zypher#8062",
+                        github: "thelinuxuser-choice",
+                        instagram: "404 not found"
+                      },
+ challenge: "I am doing  exams currently -_-"
+}
+```
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thelinuxuser-choice&show_icons=true&theme=nord)
+<img src="https://chemnitzer.linux-tage.de/2017/static/img/box/tuxel.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-</div>
+---
