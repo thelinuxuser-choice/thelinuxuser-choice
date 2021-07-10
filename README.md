@@ -3,7 +3,7 @@
 <p><em><a href="https://www.instagram.com/subodha_prabash/">Instagram</a><img src="https://media.tenor.com/images/64bad75af8a169ead8f3b5308e057699/tenor.gif" width="30"></br> <a href="#">System failure ...</a><img src="https://media.tenor.com/images/3c67b2b63dd01036b8d44da55294e25f/tenor.gif" width="30"> 
 </em></p>
 
-[![Twitter: 404](https://img.shields.io/twitter/follow/404?style=social)](https://twitter.com/)
+[![Discord](https://img.shields.io/discord/848497208735301642)](https://dsc.gg/hacking-404)
 [![Linkedin: 404](https://img.shields.io/badge/-404-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
 [![GitHub Zypher](https://img.shields.io/github/followers/thelinuxuser-choice?label=follow&style=social)](https://github.com/thelinuxuser-choice)
 
