@@ -1,10 +1,7 @@
-<h2> Hi, I'm thelinuxuser-choice! <img src="https://media.tenor.com/images/70121dec0b5bb518edaa0be7f17ed273/tenor.gif" width="50"></h2>
-<img align='right' src="https://i.postimg.cc/28N05Dk4/icon.png" width="230">
-<p><em><a href="https://www.instagram.com/subodha_prabash/">Instagram</a><img src="https://media.tenor.com/images/64bad75af8a169ead8f3b5308e057699/tenor.gif" width="30"></br> <a href="#">System failure ...</a><img src="https://media.tenor.com/images/3c67b2b63dd01036b8d44da55294e25f/tenor.gif" width="30"> 
-</em></p>
+<h1> Join our discord server to learn ethical hacking https://discord.io/e-hackers <img src="https://media.tenor.com/images/70121dec0b5bb518edaa0be7f17ed273/tenor.gif" width="50"></h1>
+
 
 [![Discord](https://img.shields.io/discord/848497208735301642)](https://dsc.gg/hacking-404)
-[![Linkedin: 404](https://img.shields.io/badge/-404-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
 [![GitHub Zypher](https://img.shields.io/github/followers/thelinuxuser-choice?label=follow&style=social)](https://github.com/thelinuxuser-choice)
 
 
