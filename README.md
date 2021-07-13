@@ -1,4 +1,4 @@
-<h1> Join our discord server to learn ethical hacking https://discord.io/e-hackers <img src="https://media.tenor.com/images/70121dec0b5bb518edaa0be7f17ed273/tenor.gif" width="50"></h1>
+<h1> I AM YOU <img src="https://media.tenor.com/images/70121dec0b5bb518edaa0be7f17ed273/tenor.gif" width="50"></h1>
 
 
 [![Discord](https://img.shields.io/discord/848497208735301642)](https://dsc.gg/hacking-404)
@@ -11,7 +11,8 @@
 const zypher = {
   pronouns: "200" | "404",
   code: [Javascript, Typescript, HTML, CSS, c#, Python, Java],
-  age  : [16];
+  discord  : [https://discord.io/e-hackers];
+  age : [16];
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
