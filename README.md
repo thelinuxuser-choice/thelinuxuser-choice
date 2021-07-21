@@ -28,7 +28,7 @@ me.say_hi()
 
 - Personal website : https://thelinuxuser-choice.github.io/
 - Discord server -   https://discord.io/e-hackers
-- youtube [Midnight Hacker] : https://www.youtube.com/c/MidnightHacker
+- youtube [Midnight Hacker] : https://www.youtube.com/ZypherTech
 
 
 ## 🔧 Technologies & Tools
