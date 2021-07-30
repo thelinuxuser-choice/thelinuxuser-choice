@@ -28,7 +28,7 @@ me.say_hi()
 
 - Personal website : https://thelinuxuser-choice.github.io/
 - Discord server -   https://discord.gg/r95bVZzC8Q
-- youtube [Subscribe] : https://www.youtube.com/c/linuxhackingcode/
+- youtube [Subscribe] : https://www.youtube.com/PwnTime
 
 
 ## 🔧 Technologies & Tools
