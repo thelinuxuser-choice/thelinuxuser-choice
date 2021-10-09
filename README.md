@@ -1,4 +1,6 @@
 # Hello there 👋 V1s1t0rs
+## Instagram , Follow for updates and news 
+> https://www.instagram.com/subodha_prabash/
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=thelinuxuser-choice.thelinuxuser-choice)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
