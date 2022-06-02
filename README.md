@@ -1,5 +1,5 @@
 # Hello there 👋 V1s1t0rs
-## Discord , Youtube , Follow for updates and news 
+## dicpdqvi jwhmmuu
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=thelinuxuser-choice.thelinuxuser-choice)
